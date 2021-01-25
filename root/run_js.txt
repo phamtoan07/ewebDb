@@ -1,3 +1,4 @@
 mongo HOST -u HOST -p HOST --authenticationDatabase HOST
 
-load("D:\dotnet\ewebDb\0.ChangeScript\create_collection_cmdmenu.js");
+load("D:\\dotnet\\ewebDb\\0.ChangeScript\\create_collection_cmdmenu.js");
+load("D:\\dotnet\\ewebDb\\1.cmdmenu\\home_cmdmenu.js");
