@@ -9,7 +9,7 @@ db.createCollection( "cmdmenu",
             description: "cmdmenu.cmdid.required"
          },
          lev: {
-            bsonType : "string",
+            bsonType : "number",
             description: "cmdmenu.lev.required"
          },
 		 objname: {
