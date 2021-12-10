@@ -4,3 +4,4 @@ select => ctrl + R + E
 prop + tab + tab
 propfull + tab + tab
 2. Make ctor
+3.
