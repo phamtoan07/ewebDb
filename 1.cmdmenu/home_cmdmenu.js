@@ -26,7 +26,7 @@ db.cmdmenu.insert( { cmdid: "030000", prid: "", lev: 1, last: false, menutype: "
 
 db.cmdmenu.insert( { cmdid: "030001", prid: "030000", lev: 2, last: true, menutype: "", modcode : "SY", objname:"CHILDHOT1", cmdname:"home.user.hot 1", authcode:"", tltxcd:"", mnviewcode:"",display: true, extended: false } );
 
-db.cmdmenu.insert( { cmdid: "000004", prid: "", lev: 1, last: false, menutype: "", modcode : "SY", objname:"NEW", cmdname:"home.user.new", authcode:"", tltxcd:"", mnviewcode:"",display: true, extended: false  } );
+db.cmdmenu.insert( { cmdid: "040000", prid: "", lev: 1, last: false, menutype: "", modcode : "SY", objname:"NEW", cmdname:"home.user.new", authcode:"", tltxcd:"", mnviewcode:"",display: true, extended: false  } );
 
 db.cmdmenu.insert( { cmdid: "050000", prid: "", lev: 1, last: false, menutype: "", modcode : "SY", objname:"DISCOUNT", cmdname:"home.user.discount", authcode:"", tltxcd:"", mnviewcode:"",display: true, extended: false  } );
 
@@ -38,4 +38,4 @@ db.cmdmenu.insert( { cmdid: "080000", prid: "", lev: 1, last: false, menutype: "
 
 db.cmdmenu.insert( { cmdid: "090000", prid: "", lev: 1, last: false, menutype: "", modcode : "SY", objname:"CONTACT", cmdname:"home.user.contact", authcode:"", tltxcd:"", mnviewcode:"",display: true, extended: true } );
 
-db.cmdmenu.insert( { cmdid: "11000", prid: "", lev: 1, last: false, menutype: "", modcode : "SY", objname:"BRANCH", cmdname:"home.user.branch", authcode:"", tltxcd:"", mnviewcode:"",display: true, extended: true } );
+db.cmdmenu.insert( { cmdid: "110000", prid: "", lev: 1, last: false, menutype: "", modcode : "SY", objname:"BRANCH", cmdname:"home.user.branch", authcode:"", tltxcd:"", mnviewcode:"",display: true, extended: true } );
